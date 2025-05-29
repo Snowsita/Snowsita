@@ -6,7 +6,7 @@ I'm a highly motivated Software Engineer with a passion for building robust and 
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 * **Programming Languages:** Java, JavaScript, TypeScript, C#, Python, SQL
 * **Frameworks/Libraries:** Angular, React, Spring Boot, Spring Framework, Hibernate, JPA, Spring Batch, Spring Security, SCSS, JavaFX, Next.js
@@ -17,7 +17,7 @@ I'm a highly motivated Software Engineer with a passion for building robust and 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are some of the projects I've worked on, showcasing my diverse skill set:
 
@@ -49,7 +49,7 @@ Here are some of the projects I've worked on, showcasing my diverse skill set:
 
 ---
 
-### 🌐 Connect with me
+### Connect with me
 
 * **LinkedIn:** [linkedin.com/in/enmanuel-torres-52a45321a](https://www.linkedin.com/in/enmanuel-torres-52a45321a)
 * **Portfolio:** [snowsita.github.io/portfolio-website](https://snowsita.github.io/portfolio-website)
