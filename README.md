@@ -53,7 +53,6 @@ Here are some of the projects I've worked on, showcasing my diverse skill set:
 
 * **LinkedIn:** [linkedin.com/in/enmanuel-torres-52a45321a](https://www.linkedin.com/in/enmanuel-torres-52a45321a)
 * **Portfolio:** [snowsita.github.io/portfolio-website](https://snowsita.github.io/portfolio-website)
-* **Email:** toenmanuela@gmail.com
 
 ---
 
