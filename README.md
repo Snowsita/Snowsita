@@ -6,6 +6,10 @@ I'm a highly motivated Software Engineer with a passion for building robust and 
 
 ---
 
+### Java 8 Developer
+
+I'm currently working on a Subversion related project, which is why there won't be much updates on my github profile, please understand.
+
 ### Technical Skills
 
 * **Programming Languages:** Java, JavaScript, TypeScript, C#, Python, SQL
